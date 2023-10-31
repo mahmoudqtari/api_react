@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #eee;
+}
+.resturent,
+.products {
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: #eee;
+    background-color: blue;
+    margin-left: 10px;
+}
